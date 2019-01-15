@@ -11,10 +11,13 @@ Pin kiosztás a Raspberryn:
 
 
 
+Segítségek a feladat elkészítéséhez:
+https://learn.adafruit.com/retro-gaming-with-raspberry-pi
+
+https://www.youtube.com/watch?v=bYHXUECdQAg&t=917s
 
 
-
-
+https://www.youtube.com/watch?v=xvYX_7iRRI0
 
 
 
@@ -28,3 +31,6 @@ https://www.ebay.com/itm/Sanwa-Original-Japan-Arcade-Joystick-JLF-TP-8YT-with-Gr
 
 Raspberry Pi:
 https://www.amazon.com/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CD5VC92&linkCode=as2&tag=hackerhouse-20&linkId=3b684c0f652962f29c089c0a9bfb6032
+
+Kábelek:
+https://www.adafruit.com/product/266
