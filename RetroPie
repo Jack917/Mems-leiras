@@ -3,22 +3,10 @@ Ennek az emulátor programnak a segítségével csináltuk meg a feladatot.
 Linkek amik szükségesek a feladat elkészítéséhez:
 
 
-A Schellscript ami elindítja a RetroArch emulátort:
-
+-A Schellscript ami elindítja a RetroArch emulátort:
 https://github.com/RetroPie/RetroPie-Setup
 
 
-A program ami a pin-eket virtuális billentyűnek érzékeli:
+-A program ami a pin-eket virtuális billentyűnek érzékeli:
 https://github.com/adafruit/Adafruit-Retrogame
 
-
-Linkek a fő alkatrészekhez:
-
-A gombok:
-https://www.youtube.com/redirect?redir_token=JEvFqtfqILaveReLsCPvYzqrn5R8MTU0NzU5NzMxN0AxNTQ3NTEwOTE3&v=bYHXUECdQAg&q=https%3A%2F%2Fgoo.gl%2F2zaows&event=video_description
-
-A Joystick:
-https://www.ebay.com/itm/Sanwa-Original-Japan-Arcade-Joystick-JLF-TP-8YT-with-Green-Ball-Top-stick-mod-/181514275628?hash=item2a43180b2c
-
-Raspberry Pi:
-https://www.amazon.com/gp/product/B01CD5VC92/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CD5VC92&linkCode=as2&tag=hackerhouse-20&linkId=3b684c0f652962f29c089c0a9bfb6032
