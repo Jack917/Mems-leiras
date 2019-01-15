@@ -10,6 +10,16 @@ Pin kiosztás a Raspberryn:
 ![pinout](https://user-images.githubusercontent.com/44037717/51151043-6e240d80-1869-11e9-82c7-05c9f8836d00.png)
 
 
+RetroPie felállításához szükséges script-ek:
+
+-A Schellscript ami elindítja a RetroArch emulátort:
+https://github.com/RetroPie/RetroPie-Setup
+
+
+-A program ami a pin-eket virtuális billentyűnek érzékeli:
+https://github.com/adafruit/Adafruit-Retrogame
+
+
 
 Segítségek a feladat elkészítéséhez:
 https://learn.adafruit.com/retro-gaming-with-raspberry-pi
