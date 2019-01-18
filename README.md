@@ -1,18 +1,18 @@
 # Mems-leiras
 A mi "projektünk" egy Hordozható Retro játék konzol egy emulátor program (RetroPie) felhasználásával.
 
-A pin felosztás a joystickhoz:
-
+Ez alapján kötöttük be a pin-eket a joystick-ba:
 ![gaming_joy-pins2](https://user-images.githubusercontent.com/44037717/51151015-40d75f80-1869-11e9-9d94-d802bfe57cd3.png)
 
-Pin kiosztás a Raspberryn:
+
+Ez alapján kötöttük be a raspberry pin-jeibe a a gombokat és a joystick-et:
 
 ![pinout](https://user-images.githubusercontent.com/44037717/51151043-6e240d80-1869-11e9-82c7-05c9f8836d00.png)
 
 
 RetroPie felállításához szükséges script-ek:
 
--A Schellscript ami elindítja a RetroArch emulátort:
+-A Schellscript ami elindítja a RetroArch nevű emulátort:
 https://github.com/RetroPie/RetroPie-Setup
 
 
