@@ -30,3 +30,13 @@ LEFTALT    7  # 'B' button
 Z         26  # 'X' button
 X         12  # 'Y' button
 ESC      23 7 # ESC = A +  B gomb egyszerre való lenyomása
+
+RetroPie: 2.0+ -os kompatibilitás:
+
+A Raspberry Pi terminálban SSH szekcióban a következő parancsot kell beütni:
+
+sudo nano /etc/udev/rules.d/10-retrogame.rules
+
+Amint a Nano szövegszerkesztő betölt a következő parancsot kell bele írni:
+
+SUBSYSTEM=="input", ATTRS{name}=="retrogame", ENV{ID_INPUT_KEYBOARD}="1"
