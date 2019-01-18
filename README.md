@@ -2,10 +2,13 @@
 A mi "projektünk" egy Hordozható Retro játék konzol egy emulátor program (RetroPie) felhasználásával.
 
 Ez alapján kötöttük be a pin-eket a joystick-ba:
+
+
 ![gaming_joy-pins2](https://user-images.githubusercontent.com/44037717/51151015-40d75f80-1869-11e9-9d94-d802bfe57cd3.png)
 
 
 Ez alapján kötöttük be a raspberry pin-jeibe a a gombokat és a joystick-et:
+
 
 ![pinout](https://user-images.githubusercontent.com/44037717/51151043-6e240d80-1869-11e9-82c7-05c9f8836d00.png)
 
