@@ -6,6 +6,17 @@ Linkek amik szükségesek a feladat elkészítéséhez:
 -A Schellscript ami elindítja a RetroArch emulátort:
 https://github.com/RetroPie/RetroPie-Setup
 
+Ez a script egyszerűen a következő parancs-al letölthető:
+
+cd
+git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
+
+
+
+majd elindíthatjuk a a következő parancs-al:
+
+cd RetroPie-Setup
+sudo ./retropie_setup.sh
 
 -A program ami a pin-eket virtuális billentyűnek érzékeli:
 https://github.com/adafruit/Adafruit-Retrogame
