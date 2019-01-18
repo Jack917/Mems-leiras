@@ -25,6 +25,7 @@ https://github.com/adafruit/Adafruit-Retrogame
 
 
 Segítségek a feladat elkészítéséhez:
+
 https://learn.adafruit.com/retro-gaming-with-raspberry-pi
 
 https://www.youtube.com/watch?v=bYHXUECdQAg&t=917s
