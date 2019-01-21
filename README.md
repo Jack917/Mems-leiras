@@ -35,7 +35,7 @@ sudo nano /etc/udev/rules.d/10-retrogame.rules
 -A fájlba beillesztjük a következő parancsot:
 SUBSYSTEM=="input", ATTRS{name}=="retrogame", ENV{ID_INPUT_KEYBOARD}="1"
 
-Majd elindíthatjuk a retrogame-t és játszhatunk.
+-Majd elindíthatjuk a retrogame-t és játszhatunk.
 sudo ./retrogame
 
 
