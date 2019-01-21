@@ -18,10 +18,25 @@ RetroPie felállításához szükséges script-ek:
 -A Schellscript ami elindítja a RetroArch nevű emulátort:
 https://github.com/RetroPie/RetroPie-Setup
 
+-Letöltöttük a legújabb RetroPie telepítőt
+git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
+
+-Felraktuk a RetroPie-t
+sudo ./retropie_setup.sh
+
+-Ezután a RetroPie roms mappáján belül játékokat tölthetünk le, a zip fájlt elhelyezzük a mappában.
 
 -A program ami a pin-eket virtuális billentyűnek érzékeli:
 https://github.com/adafruit/Adafruit-Retrogame
 
+-A program telepítése után következett a gombok konfigurálása. Ezután lehetővé kell tenni, hogy az emulátor megfelelően működjön.
+sudo nano /etc/udev/rules.d/10-retrogame.rules
+
+-A fájlba beillesztjük a következő parancsot:
+SUBSYSTEM=="input", ATTRS{name}=="retrogame", ENV{ID_INPUT_KEYBOARD}="1"
+
+Majd elindíthatjuk a retrogame-t és játszhatunk.
+sudo ./retrogame
 
 
 Segítségek a feladat elkészítéséhez:
