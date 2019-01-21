@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=xvYX_7iRRI0
 Linkek a fő alkatrészekhez:
 
 A gombok:
-https://www.youtube.com/redirect?redir_token=JEvFqtfqILaveReLsCPvYzqrn5R8MTU0NzU5NzMxN0AxNTQ3NTEwOTE3&v=bYHXUECdQAg&q=https%3A%2F%2Fgoo.gl%2F2zaows&event=video_description
+https://www.amazon.com/gp/product/B01MYWADYZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MYWADYZ&linkCode=as2&tag=hackerhouse-20&linkId=8290fd53e2ce93002037107d879593ed
 
 A Joystick:
 https://www.ebay.com/itm/Sanwa-Original-Japan-Arcade-Joystick-JLF-TP-8YT-with-Green-Ball-Top-stick-mod-/181514275628?hash=item2a43180b2c
