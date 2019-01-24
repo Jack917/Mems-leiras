@@ -21,14 +21,16 @@ sudo ./retropie_setup.sh
 -A program ami a pin-eket virtuális billentyűnek érzékeli:
 https://github.com/adafruit/Adafruit-Retrogame
 
-LEFT       4  # Joypad left
-RIGHT     22  # Joypad right
-UP        27  # Joypad up
-DOWN      17  # Joypad down
-LEFTCTRL  23  # 'A' button
-LEFTALT    7  # 'B' button
-Z         26  # 'X' button
-X         12  # 'Y' button
+LEFT       4  # Joypad bal
+RIGHT     22  # Joypad jobb
+UP        27  # Joypad fel
+DOWN      17  # Joypad le
+LEFTCTRL  23  # 'A' gomb
+LEFTALT    7  # 'B' gomb
+Z         26  # 'X' gomb
+X         12  # 'Y' gomb
+SPACE      5  # 'Select' gomb
+ENTER      3  # 'Start' gomb
 ESC      23 7 # ESC = A +  B gomb egyszerre való lenyomása
 
 RetroPie: 2.0+ -os kompatibilitás:
