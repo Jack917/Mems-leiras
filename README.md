@@ -13,9 +13,6 @@ Ez alapján kötöttük be a raspberry pin-jeibe a a gombokat és a joystick-et:
 ![pinout](https://user-images.githubusercontent.com/44037717/51151043-6e240d80-1869-11e9-82c7-05c9f8836d00.png)
 
 
-A kontroller belülről:
-
-![Uploading 50534776_2412425262166001_5518053512363114496_n.jpg…]()
 
 
 
