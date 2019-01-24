@@ -3,22 +3,22 @@
 #Linkek amik szükségesek a feladat elkészítéséhez:
 
 
--A Schellscript ami elindítja a RetroArch emulátort:
+#-A Schellscript ami elindítja a RetroArch emulátort:
 https://github.com/RetroPie/RetroPie-Setup
 
-Ez a script egyszerűen a következő parancs-al letölthető:
+#Ez a script egyszerűen a következő parancs-al letölthető:
 
 cd
 git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 
 
 
-majd elindíthatjuk a a következő parancs-al:
+#majd elindíthatjuk a a következő parancs-al:
 
 cd RetroPie-Setup
 sudo ./retropie_setup.sh
 
--A program ami a pin-eket virtuális billentyűnek érzékeli:
+#-A program ami a pin-eket virtuális billentyűnek érzékeli:
 https://github.com/adafruit/Adafruit-Retrogame
 
 LEFT       4  # Joypad bal
@@ -33,12 +33,12 @@ SPACE      5  # 'Select' gomb
 ENTER      3  # 'Start' gomb
 ESC      23 7 # ESC = A +  B gomb egyszerre való lenyomása
 
-RetroPie: 2.0+ -os kompatibilitás:
+#RetroPie: 2.0+ -os kompatibilitás:
 
-A Raspberry Pi terminálban SSH szekcióban a következő parancsot kell beütni:
+#A Raspberry Pi terminálban SSH szekcióban a következő parancsot kell beütni:
 
-sudo nano /etc/udev/rules.d/10-retrogame.rules
+#sudo nano /etc/udev/rules.d/10-retrogame.rules
 
-Amint a Nano szövegszerkesztő betölt a következő parancsot kell bele írni:
+#Amint a Nano szövegszerkesztő betölt a következő parancsot kell bele írni:
 
 SUBSYSTEM=="input", ATTRS{name}=="retrogame", ENV{ID_INPUT_KEYBOARD}="1"
