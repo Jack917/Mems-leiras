@@ -10,8 +10,7 @@ Ez alapján kötöttük be a pin-eket a joystick-ba:
 Ez alapján kötöttük be a raspberry pin-jeibe a a gombokat és a joystick-et:
 
 
-![pinout](https://user-images.githubusercontent.com/44037717/51151043-6e240d80-1869-11e9-82c7-05c9f8836d00.png)
-
+![50730728_244442756475546_3069886531184361472_n](https://user-images.githubusercontent.com/44037717/51708920-64e32f80-2025-11e9-81a7-4e232bde45ae.png)
 
 
 
